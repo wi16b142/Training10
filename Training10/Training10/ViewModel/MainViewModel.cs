@@ -34,7 +34,7 @@ namespace Training10.ViewModel
 
                 Horses.Add(new HorseVM("Racer1", 100));
                 Horses.Add(new HorseVM("Racer2", 66));
-                Horses.Add(new HorseVM("Racer3", 211));
+                Horses.Add(new HorseVM("Racer3", 300));
                 Horses.Add(new HorseVM("Racer4", 44));
                 Horses.Add(new HorseVM("Racer5", 180));
             }
@@ -49,9 +49,6 @@ namespace Training10.ViewModel
         {
             App.Current.Dispatcher.Invoke(() => 
             {
-                //string name = msg.Split('@')[1].Split(':')[0];
-                //int speed = int.Parse(msg.Split('@')[1].Split(':')[1]);
-
                 string name = msg.Split(':')[0];
                 int speed = int.Parse(msg.Split(':')[1]);
 

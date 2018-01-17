@@ -1,0 +1,13 @@
+* commit ac5ddfd7f315c015d3eb3920c0cd9c3c7d359a4b
+| Author: Sascha Böck <wi16b142@technikum-wien.at>
+| Date:   Wed Jan 17 15:42:05 2018 +0100
+| 
+|     finished
+|     
+|     todo: minor debugging of view
+| 
+* commit ca54cbed340f06d2d997dcce9e397ddd2c20c7e1
+  Author: Sascha <31797315+wi16b142@users.noreply.github.com>
+  Date:   Wed Jan 17 13:24:57 2018 +0100
+  
+      Initial commit
